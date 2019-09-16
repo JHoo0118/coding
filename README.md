@@ -1,2 +1,3 @@
-# coding
+# Coding
+
 Just practice coding
